@@ -30,8 +30,6 @@ Kurulumu başlatmak için tek yapmanız gereken, aşağıdaki komutu kopyalayıp
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/sh3rly13/dria_node/main/dria_low.sh)"
 ```
 
-> **Önemli:** Yukarıdaki komutta `KULLANICI_ADINIZ` ve `REPO_ADINIZ` kısımlarını kendi GitHub kullanıcı adınız ve repository adınız ile değiştirmeyi unutmayın!
-
 ### Kurulum Süreci
 
 1.  Komutu çalıştırdığınızda, betik başlayacak ve adımları size bildirecektir.
