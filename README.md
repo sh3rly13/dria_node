@@ -1,4 +1,4 @@
-# DRIA Düğümü Otomatik Kurulum Betiği (macOS)
+# DRIA Node Otomatik Kurulum Betiği (macOS)
 
 Bu betik, **macOS (Apple Silicon & Intel)** işletim sistemine sahip bilgisayarlarda [Ollama](https://ollama.com/), [Gemma](https://ollama.com/library/gemma) ve [DRIA Compute Node](https://dria.co/) kurulumunu tek bir komutla otomatikleştirmek için tasarlanmıştır.
 
