@@ -1,2 +1,5 @@
-# dria_node
-dria-node-ollama-gemma3-on-mac
+# DRIA NODE GEREKSİNİMLERİ
+## OLLAMA KURULUMU
+## GEMMA3:4B MODELİ KURULUMU
+### TEST
+
